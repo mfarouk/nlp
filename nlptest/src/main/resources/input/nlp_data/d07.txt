@@ -1,0 +1,3 @@
+Sun Microsystems, Inc. was a company that sold computers, computer components, computer software, and information technology services and that created the Java programming language and the Network File System (NFS). Sun significantly evolved several key computing technologies, among them Unix, RISC processors, thin client computing, and virtualized computing. Sun was founded on February 24, 1982.
+
+On January 27, 2010, Sun was acquired by Oracle Corporation for US $7.4 billion. The following month, Sun was merged with Oracle USA, Inc. to become Oracle America, Inc.
