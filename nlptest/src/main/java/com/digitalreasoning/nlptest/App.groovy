@@ -2,19 +2,18 @@ package com.digitalreasoning.nlptest
 
 import com.digitalreasoning.nlptest.config.ConfigManager
 import com.digitalreasoning.nlptest.logging.ErrorLogger
-
 import com.digitalreasoning.nlptest.service.XMLGenerator
 
 
-class App
-{
+class App {
 
-    static ConfigManager conf = ConfigManager.getInstance()
+    static ConfigManager conf = ConfigManager.instance
     static XMLGenerator xmlGen = XMLGenerator.instance
 
-    static void main( String[] args )
-    {
+
+    static void main(String[] args) {
         ErrorLogger.log.info "Starting Processing!"
+
         xmlGen.generateXML("${conf.inputConfig.input.files.nlp.data}")
         ErrorLogger.log.info "GoodBye!"
 

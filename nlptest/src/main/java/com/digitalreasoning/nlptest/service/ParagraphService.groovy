@@ -8,7 +8,7 @@ class ParagraphService {
 
     def splitIntoParagraphs(input) {
         Paragraph paragraph = new Paragraph()
-        def paragraphs = input.text.split(paragraph.regex).findAll{ item->!item.isEmpty()}
+        def paragraphs = input.text.split(paragraph.regex).findAll { item -> !item.isEmpty() }
         return paragraphs
     }
 }

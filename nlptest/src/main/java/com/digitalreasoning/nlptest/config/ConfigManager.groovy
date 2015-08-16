@@ -9,11 +9,16 @@ class ConfigManager {
 
     private static ConfigManager configManager = new ConfigManager()
 
-
     /* Private constructor to defeat instantiation */
+
     private ConfigManager() {
 
         def path = System.getenv("properties.nlp.path")
+
+        if (path == null) {
+            path = "${System.getProperty("user.dir")}/src/main/resources/config"
+        }
+
         def inputProps = new Properties()
 
         try {

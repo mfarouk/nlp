@@ -12,7 +12,7 @@
     <file path="/Dummy.txt" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439588054749" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439581727105" ignored="false" />
     <file path="/fragment.java" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439575615696" ignored="false" />
-    <file path="/App.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439691076138" ignored="false" />
+    <file path="/App.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439709889980" ignored="false" />
     <file path="/input.properties" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439577166775" ignored="false" />
     <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/db2/DBHandler.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578654287" ignored="false" />
     <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/json/JsonCapture.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578704491" ignored="false" />
@@ -22,7 +22,7 @@
     <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/json/BatchUsers.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578703337" ignored="false" />
     <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/kafka/AbstractParametrizedProducer.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578412663" ignored="false" />
     <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/kafka/KafkaProducerBase.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578705675" ignored="false" />
-    <file path="/ConfigManager.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439621419499" ignored="false" />
+    <file path="/ConfigManager.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439693184668" ignored="false" />
     <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/config/ConfigManager.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578819340" ignored="false" />
     <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/tests/RFIDConsumerAuditTableTest.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578801170" ignored="false" />
     <file path="/RFIDConsumerAuditTableTest.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578529358" ignored="false" />
@@ -32,19 +32,21 @@
     <file path="/pom.xml" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439588275064" ignored="false" />
     <file path="/AppTest.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439585471389" ignored="false" />
     <file path="/InputReader.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439609980047" ignored="false" />
-    <file path="/Sentence.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439678458537" ignored="false" />
-    <file path="/Paragraph.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439651298356" ignored="false" />
+    <file path="/Sentence.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439707372930" ignored="false" />
+    <file path="/Paragraph.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439705273860" ignored="false" />
     <file path="/ErrorLogger.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439610095139" ignored="false" />
     <file path="/Word.java" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439610402664" ignored="false" />
-    <file path="/Word.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439674512183" ignored="false" />
+    <file path="/Word.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439707265540" ignored="false" />
     <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer/src/main/java/com/tgt/rfid/consumer/service/LocationService.java" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439618008866" ignored="false" />
     <file path="/NLPCharacters.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439620545004" ignored="false" />
-    <file path="/ParagraphService.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439661893405" ignored="false" />
-    <file path="/SentenceService.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439685111657" ignored="false" />
-    <file path="/WordService.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439685712866" ignored="false" />
+    <file path="/ParagraphService.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439710767365" ignored="false" />
+    <file path="/SentenceService.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439708493160" ignored="false" />
+    <file path="/WordService.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439709732434" ignored="false" />
     <file path="/Tokenizer.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439686154312" ignored="false" />
-    <file path="/XMLGenerator.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439690950254" ignored="false" />
-    <file path="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/XMLGenerator.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439691975789" ignored="false" />
+    <file path="/XMLGenerator.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439710525658" ignored="false" />
+    <file path="/NERService.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439706231432" ignored="false" />
+    <file path="/NamedEntities.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439697208665" ignored="false" />
+    <file path="/NamedEntity.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439706218596" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,20 +107,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="App.groovy" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="App.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/App.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="50" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="11" column="4" selection-start="333" selection-end="333" vertical-scroll-proportion="0.34285715">
+              <folding>
+                <element signature="e#38#94#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConfigManager.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/config/ConfigManager.groovy">
+      <file leaf-file-name="WordService.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/WordService.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="30" column="34" selection-start="1084" selection-end="1100" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#46#98#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,52 +132,7 @@
       <file leaf-file-name="Sentence.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Sentence.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="62" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NLPConstants.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/enums/NLPConstants.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="29" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ErrorLogger.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/logging/ErrorLogger.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="10" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParagraphService.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/ParagraphService.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="25" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SentenceService.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/SentenceService.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="22" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Word.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Word.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="4" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
+            <state line="9" column="32" selection-start="185" selection-end="203" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -180,17 +141,58 @@
       <file leaf-file-name="Paragraph.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Paragraph.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="15" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
+            <state line="12" column="66" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InputReader.groovy" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/InputReader.groovy">
+      <file leaf-file-name="Word.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Word.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="19" selection-start="133" selection-end="133" vertical-scroll-proportion="0.094936706">
+            <state line="20" column="22" selection-start="615" selection-end="629" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParagraphService.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/ParagraphService.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="94" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XMLGenerator.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/XMLGenerator.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="86" selection-start="2545" selection-end="2545" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NERService.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/NERService.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="31" selection-start="897" selection-end="910" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#46#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SentenceService.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/SentenceService.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="41" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#46#98#0" expanded="true" />
+                <marker date="1439711824000" expanded="true" signature="227:1195" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -205,22 +207,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/config/input.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/InputReader.groovy" />
-        <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/logging/ErrorLogger.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Word.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/enums/NLPCharacters.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/Tokenizer.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/InputReader.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/config/ConfigManager.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/NamedEntities.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Paragraph.groovy" />
-        <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/ParagraphService.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/NamedEntity.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/NERService.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Word.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Sentence.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/SentenceService.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/WordService.groovy" />
-        <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/Tokenizer.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/XMLGenerator.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/ParagraphService.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/App.groovy" />
-        <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/InputReader.groovy" />
       </list>
     </option>
   </component>
@@ -237,7 +239,7 @@
     <option name="x" value="8" />
     <option name="y" value="23" />
     <option name="width" value="1430" />
-    <option name="height" value="803" />
+    <option name="height" value="799" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -281,6 +283,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="nlptest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nlptest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nlptest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nlptest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nlptest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -486,12 +520,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="23" width="1430" height="803" extended-state="0" />
+    <frame x="8" y="23" width="1430" height="799" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39911634" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -500,19 +535,18 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33136967" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26228324" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="true" weight="0.3455344" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24060693" sideWeight="0.6421208" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35787922" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" x="31" y="319" width="1384" height="206" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -581,47 +615,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/InputReader.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/input.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="20" selection-start="42" selection-end="62" vertical-scroll-proportion="0.03166227" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/input/nlp_data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="9" selection-end="26" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/input/NER.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/XMLGenerator.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/WordService.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="29" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/enums/NLPConstants.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="29" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/logging/ErrorLogger.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="10" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
@@ -629,59 +622,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/ParagraphService.groovy">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/input/NER.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="25" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
+        <state line="8" column="18" selection-start="103" selection-end="103" vertical-scroll-proportion="0.15189873">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/SentenceService.groovy">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/input.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Word.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="4" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Sentence.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="62" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="16" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/config/ConfigManager.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
+        <state line="33" column="0" selection-start="975" selection-end="975" vertical-scroll-proportion="0.75398636">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/App.groovy">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-all/2.4.4/groovy-all-2.4.4-sources.jar!/org/codehaus/groovy/runtime/DefaultGroovyMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="50" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Paragraph.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="15" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
+        <state line="2055" column="0" selection-start="78616" selection-end="78616" vertical-scroll-proportion="0.33246073">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/InputReader.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19" selection-start="133" selection-end="133" vertical-scroll-proportion="0.094936706">
+        <state line="6" column="24" selection-start="145" selection-end="158" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/NamedEntity.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.39237058">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/SentenceService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="41" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#46#98#0" expanded="true" />
+            <marker date="1439711824000" expanded="true" signature="227:1195" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/NERService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="31" selection-start="897" selection-end="910" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#46#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/XMLGenerator.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="86" selection-start="2545" selection-end="2545" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Word.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="22" selection-start="615" selection-end="629" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Sentence.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="32" selection-start="185" selection-end="203" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/WordService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="34" selection-start="1084" selection-end="1100" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#46#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Paragraph.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="66" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/ParagraphService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="94" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/App.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="4" selection-start="333" selection-end="333" vertical-scroll-proportion="0.34285715">
+          <folding>
+            <element signature="e#38#94#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
