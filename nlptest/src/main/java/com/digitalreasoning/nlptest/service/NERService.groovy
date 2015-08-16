@@ -11,7 +11,7 @@ class NERService {
 
 
     def loadNamedEntities(file) {
-        def entities = inputReader.readInputFile("${conf.inputConfig.input.files.path}/${file}")
+        def entities = inputReader.readInputFile(file)
         def entitiesList = []
         entities.eachWithIndex { entity, idx ->
             if (entity.findAll { item -> !item.isEmpty() }) {

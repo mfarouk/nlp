@@ -4,7 +4,6 @@ import com.digitalreasoning.nlptest.enums.NLPConstants
 
 class Sentence {
     int id
-    int number
     def regex
     def text
     Paragraph sentence_paragraph
