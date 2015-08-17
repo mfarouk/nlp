@@ -8,10 +8,8 @@ class SentenceService {
 
     def splitIntoSentences(paragraphs) {
         Sentence sentence = new Sentence()
-        def sentenceMap = [:]
         def sentenceList = []
         int offset = 1
-        def stc_index2 = 0
         paragraphs.eachWithIndex { paragraph, index ->
             Paragraph paragraph_object = new Paragraph()
             paragraph_object.id = index + offset
@@ -23,11 +21,9 @@ class SentenceService {
                     stc.text = item.trim()
                     stc.sentence_paragraph.id = index + offset
                     sentenceList.add(stc)
-                    //sentenceMap.put(item.trim(),paragraph_object.id)
                 }
             }
         }
-        //return sentenceMap
         return sentenceList
     }
 }
