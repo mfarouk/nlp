@@ -1,0 +1,204 @@
+<input type='text'>
+  <Paragrahs>
+    <Paragraph id='1'>The term "First World War" was first used in September 1914 by the German philosopher Ernst Haeckel, who claimed that "there is no doubt that the course and character of the feared 'European War' ... will become the first world war in the full sense of the word."
+      <Sentences>
+        <Sentence id='1'>The term "First World War" was first used in September 1914 by the German philosopher Ernst Haeckel, who claimed that "there is no doubt that the course and character of the feared 'European War' ... will become the first world war in the full sense of the word."
+          <NamedEntities>
+            <NamedEntity id='1'>Ernst Haeckel</NamedEntity>
+            <NamedEntity id='2'>Europe</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='1'>The</Word>
+            <Word id='2'>term</Word>
+            <Word id='3'>"</Word>
+            <Word id='4'>First</Word>
+            <Word id='5'>World</Word>
+            <Word id='6'>War</Word>
+            <Word id='7'>"</Word>
+            <Word id='8'>was</Word>
+            <Word id='9'>first</Word>
+            <Word id='10'>used</Word>
+            <Word id='11'>in</Word>
+            <Word id='12'>September</Word>
+            <Word id='13'>1914</Word>
+            <Word id='14'>by</Word>
+            <Word id='15'>the</Word>
+            <Word id='16'>German</Word>
+            <Word id='17'>philosopher</Word>
+            <Word id='18'>Ernst</Word>
+            <Word id='19'>Haeckel</Word>
+            <Word id='20'>,</Word>
+            <Word id='21'>who</Word>
+            <Word id='22'>claimed</Word>
+            <Word id='23'>that</Word>
+            <Word id='24'>"</Word>
+            <Word id='25'>there</Word>
+            <Word id='26'>is</Word>
+            <Word id='27'>no</Word>
+            <Word id='28'>doubt</Word>
+            <Word id='29'>that</Word>
+            <Word id='30'>the</Word>
+            <Word id='31'>course</Word>
+            <Word id='32'>and</Word>
+            <Word id='33'>character</Word>
+            <Word id='34'>of</Word>
+            <Word id='35'>the</Word>
+            <Word id='36'>feared</Word>
+            <Word id='37'>'</Word>
+            <Word id='38'>European</Word>
+            <Word id='39'>War</Word>
+            <Word id='40'>'</Word>
+            <Word id='41'>.</Word>
+            <Word id='42'>.</Word>
+            <Word id='43'>.</Word>
+            <Word id='44'>will</Word>
+            <Word id='45'>become</Word>
+            <Word id='46'>the</Word>
+            <Word id='47'>first</Word>
+            <Word id='48'>world</Word>
+            <Word id='49'>war</Word>
+            <Word id='50'>in</Word>
+            <Word id='51'>the</Word>
+            <Word id='52'>full</Word>
+            <Word id='53'>sense</Word>
+            <Word id='54'>of</Word>
+            <Word id='55'>the</Word>
+            <Word id='56'>word</Word>
+            <Word id='57'>.</Word>
+            <Word id='58'>"</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+    <Paragraph id='2'>Why did the war begin? The immediate trigger for war was the 28 June 1914 assassination of Archduke Franz Ferdinand of Austria, heir to the throne of Austria-Hungary, by Yugoslav nationalist Gavrilo Princip (19 years old at the time) in Sarajevo. This set off a diplomatic crisis when Austria-Hungary delivered an ultimatum to the Kingdom of Serbia, and entangled international alliances formed over the previous decades were invoked. Within weeks, the major powers were at war and the conflict soon spread around the world.
+      <Sentences>
+        <Sentence id='2'>Why did the war begin?
+          <NamedEntities />
+          <Words>
+            <Word id='59'>Why</Word>
+            <Word id='60'>did</Word>
+            <Word id='61'>the</Word>
+            <Word id='62'>war</Word>
+            <Word id='63'>begin</Word>
+            <Word id='64'>?</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='3'>The immediate trigger for war was the 28 June 1914 assassination of Archduke Franz Ferdinand of Austria, heir to the throne of Austria-Hungary, by Yugoslav nationalist Gavrilo Princip (19 years old at the time) in Sarajevo.
+          <NamedEntities>
+            <NamedEntity id='3'>Franz Ferdinand</NamedEntity>
+            <NamedEntity id='4'>Gavrilo Princip</NamedEntity>
+            <NamedEntity id='6'>Sarajevo</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='65'>The</Word>
+            <Word id='66'>immediate</Word>
+            <Word id='67'>trigger</Word>
+            <Word id='68'>for</Word>
+            <Word id='69'>war</Word>
+            <Word id='70'>was</Word>
+            <Word id='71'>the</Word>
+            <Word id='72'>28</Word>
+            <Word id='73'>June</Word>
+            <Word id='74'>1914</Word>
+            <Word id='75'>assassination</Word>
+            <Word id='76'>of</Word>
+            <Word id='77'>Archduke</Word>
+            <Word id='78'>Franz</Word>
+            <Word id='79'>Ferdinand</Word>
+            <Word id='80'>of</Word>
+            <Word id='81'>Austria</Word>
+            <Word id='82'>,</Word>
+            <Word id='83'>heir</Word>
+            <Word id='84'>to</Word>
+            <Word id='85'>the</Word>
+            <Word id='86'>throne</Word>
+            <Word id='87'>of</Word>
+            <Word id='88'>Austria</Word>
+            <Word id='89'>-</Word>
+            <Word id='90'>Hungary</Word>
+            <Word id='91'>,</Word>
+            <Word id='92'>by</Word>
+            <Word id='93'>Yugoslav</Word>
+            <Word id='94'>nationalist</Word>
+            <Word id='95'>Gavrilo</Word>
+            <Word id='96'>Princip</Word>
+            <Word id='97'>(</Word>
+            <Word id='98'>19</Word>
+            <Word id='99'>years</Word>
+            <Word id='100'>old</Word>
+            <Word id='101'>at</Word>
+            <Word id='102'>the</Word>
+            <Word id='103'>time</Word>
+            <Word id='104'>)</Word>
+            <Word id='105'>in</Word>
+            <Word id='106'>Sarajevo</Word>
+            <Word id='107'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='4'>This set off a diplomatic crisis when Austria-Hungary delivered an ultimatum to the Kingdom of Serbia, and entangled international alliances formed over the previous decades were invoked.
+          <NamedEntities>
+            <NamedEntity id='5'>Austria-Hungary</NamedEntity>
+            <NamedEntity id='7'>Austria-Hungary</NamedEntity>
+            <NamedEntity id='8'>Serbia</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='108'>This</Word>
+            <Word id='109'>set</Word>
+            <Word id='110'>off</Word>
+            <Word id='111'>a</Word>
+            <Word id='112'>diplomatic</Word>
+            <Word id='113'>crisis</Word>
+            <Word id='114'>when</Word>
+            <Word id='115'>Austria</Word>
+            <Word id='116'>-</Word>
+            <Word id='117'>Hungary</Word>
+            <Word id='118'>delivered</Word>
+            <Word id='119'>an</Word>
+            <Word id='120'>ultimatum</Word>
+            <Word id='121'>to</Word>
+            <Word id='122'>the</Word>
+            <Word id='123'>Kingdom</Word>
+            <Word id='124'>of</Word>
+            <Word id='125'>Serbia</Word>
+            <Word id='126'>,</Word>
+            <Word id='127'>and</Word>
+            <Word id='128'>entangled</Word>
+            <Word id='129'>international</Word>
+            <Word id='130'>alliances</Word>
+            <Word id='131'>formed</Word>
+            <Word id='132'>over</Word>
+            <Word id='133'>the</Word>
+            <Word id='134'>previous</Word>
+            <Word id='135'>decades</Word>
+            <Word id='136'>were</Word>
+            <Word id='137'>invoked</Word>
+            <Word id='138'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='5'>Within weeks, the major powers were at war and the conflict soon spread around the world.
+          <NamedEntities />
+          <Words>
+            <Word id='139'>Within</Word>
+            <Word id='140'>weeks</Word>
+            <Word id='141'>,</Word>
+            <Word id='142'>the</Word>
+            <Word id='143'>major</Word>
+            <Word id='144'>powers</Word>
+            <Word id='145'>were</Word>
+            <Word id='146'>at</Word>
+            <Word id='147'>war</Word>
+            <Word id='148'>and</Word>
+            <Word id='149'>the</Word>
+            <Word id='150'>conflict</Word>
+            <Word id='151'>soon</Word>
+            <Word id='152'>spread</Word>
+            <Word id='153'>around</Word>
+            <Word id='154'>the</Word>
+            <Word id='155'>world</Word>
+            <Word id='156'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+  </Paragrahs>
+</input>
