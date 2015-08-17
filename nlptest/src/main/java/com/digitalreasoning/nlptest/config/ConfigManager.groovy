@@ -14,6 +14,9 @@ class ConfigManager {
     private ConfigManager() {
 
         def path = System.getenv("properties.nlp.path")
+        if (path == null) {
+            path = "${System.getProperty("user.dir")}/src/main/resources/config"
+        }
         def inputProps = new Properties()
 
         try {
