@@ -1,1 +1,1 @@
-# nlp
+mvn assembly:assembly
