@@ -6,21 +6,24 @@ import com.digitalreasoning.nlptest.domain.Sentence
 @Singleton
 class SentenceService {
 
-    def splitIntoSentences(paragraphs){
+    def splitIntoSentences(paragraphs) {
         Sentence sentence = new Sentence()
-        def sentenceMap = [:]
+        def sentenceList = []
         int offset = 1
-        paragraphs.eachWithIndex{ paragraph,index ->
+        paragraphs.eachWithIndex { paragraph, index ->
             Paragraph paragraph_object = new Paragraph()
             paragraph_object.id = index + offset
             def sentences = paragraph.split(sentence.regex)
-            def sentencesWithoutBlanks = sentences.findAll{item->!item.isEmpty()}
-            sentencesWithoutBlanks.eachWithIndex{item,stc_index ->
-                if (item.findAll{itm->!itm.isEmpty()}){
-                    sentenceMap.put(item.trim(),paragraph_object.id)
+            def sentencesWithoutBlanks = sentences.findAll { item -> !item.isEmpty() }
+            sentencesWithoutBlanks.eachWithIndex { item, stc_index ->
+                if (item.findAll { itm -> !itm.isEmpty() }) {
+                    Sentence stc = new Sentence()
+                    stc.text = item.trim()
+                    stc.sentence_paragraph.id = index + offset
+                    sentenceList.add(stc)
                 }
             }
         }
-        return sentenceMap
+        return sentenceList
     }
 }

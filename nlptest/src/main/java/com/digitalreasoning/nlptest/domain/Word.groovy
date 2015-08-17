@@ -5,8 +5,9 @@ import com.digitalreasoning.nlptest.enums.NLPConstants
 class Word {
     int id
     def regex
-    def content
+    def text
     Sentence word_sentence
+    Paragraph word_paragraph
 
     Word() {
         regex = "(\\s)|" +
@@ -16,6 +17,8 @@ class Word {
                 "(?<=\\${NLPConstants.rightParan})|" +
                 "(?<=\\${NLPConstants.singleQuote})|" +
                 "(?<=\\${NLPConstants.hyphen})"
+        word_sentence = new Sentence()
+        word_paragraph = new Paragraph()
     }
 
 }

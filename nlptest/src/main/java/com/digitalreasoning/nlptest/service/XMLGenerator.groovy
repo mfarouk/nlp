@@ -21,14 +21,14 @@ class XMLGenerator {
                 paragraphs.eachWithIndex {par,par_index->
                     Paragraph(id:"${par_index+1}",par){
                         Sentences(){
-                            sentences.eachWithIndex{sentence,paragraph_num,stc_index ->
-                                if (par_index+1 == paragraph_num){
-                                    Sentence(id:"${stc_index+1}",sentence){
+                            sentences.eachWithIndex { sentence, stc_index ->
+                                if (par_index + 1 == sentence.sentence_paragraph.id) {
+                                    Sentence(id: "${stc_index + 1}", sentence.text) {
                                         Words(){
-                                            words.eachWithIndex{key,word,w_idx ->
-                                                if(key.split("|")[2] as int == paragraph_num as int &&
-                                                        key.split("|")[0] as int == stc_index+1){
-                                                    Word(id:"${w_idx+1}",word)
+                                            words.eachWithIndex { word, w_idx ->
+                                                if (word.word_paragraph.id as int == sentence.sentence_paragraph.id as int &&
+                                                        word.word_sentence.id as int == stc_index + 1) {
+                                                    Word(id: "${w_idx + 1}", word.text)
                                                 }
                                             }
 
