@@ -1,0 +1,87 @@
+<input type='text'>
+  <Paragrahs>
+    <Paragraph id='1'>The term "First World War" was first used in September 1914 by the German philosopher Ernst Haeckel, who claimed that "there is no doubt that the course and character of the feared 'European War' ... will become the first world war in the full sense of the word."
+      <Sentences>
+        <Sentence id='1'>The term "First World War" was first used in September 1914 by the German philosopher Ernst Haeckel, who claimed that "there is no doubt that the course and character of the feared 'European War' ... will become the first world war in the full sense of the word."
+          <Words>
+            <Word id='1'>The</Word>
+            <Word id='2'>term</Word>
+            <Word id='3'>"</Word>
+            <Word id='4'>First</Word>
+            <Word id='5'>World</Word>
+            <Word id='6'>War</Word>
+            <Word id='7'>"</Word>
+            <Word id='8'>was</Word>
+            <Word id='9'>first</Word>
+            <Word id='10'>used</Word>
+            <Word id='11'>in</Word>
+            <Word id='12'>September</Word>
+            <Word id='13'>1914</Word>
+            <Word id='14'>by</Word>
+            <Word id='15'>the</Word>
+            <Word id='16'>German</Word>
+            <Word id='17'>philosopher</Word>
+            <Word id='18'>Ernst</Word>
+            <Word id='19'>Haeckel</Word>
+            <Word id='20'>,</Word>
+            <Word id='21'>who</Word>
+            <Word id='22'>claimed</Word>
+            <Word id='23'>that</Word>
+Farouks-MacBook-Pro:~ Farouk$ vi sample_output_req1.xml 
+Farouks-MacBook-Pro:~ Farouk$ vi sample_output_req1.xml 
+Farouks-MacBook-Pro:~ Farouk$ vi sample_output_req1.xml 
+Farouks-MacBook-Pro:~ Farouk$ view
+Farouks-MacBook-Pro:~ Farouk$ vim sample_output_req1.xml 
+
+            <Word id='114'>when</Word>
+            <Word id='115'>Austria</Word>
+            <Word id='116'>-</Word>
+            <Word id='117'>Hungary</Word>
+            <Word id='118'>delivered</Word>
+            <Word id='119'>an</Word>
+            <Word id='120'>ultimatum</Word>
+            <Word id='121'>to</Word>
+            <Word id='122'>the</Word>
+            <Word id='123'>Kingdom</Word>
+            <Word id='124'>of</Word>
+            <Word id='125'>Serbia</Word>
+            <Word id='126'>,</Word>
+            <Word id='127'>and</Word>
+            <Word id='128'>entangled</Word>
+            <Word id='129'>international</Word>
+            <Word id='130'>alliances</Word>
+            <Word id='131'>formed</Word>
+            <Word id='132'>over</Word>
+            <Word id='133'>the</Word>
+            <Word id='134'>previous</Word>
+            <Word id='135'>decades</Word>
+            <Word id='136'>were</Word>
+            <Word id='137'>invoked</Word>
+            <Word id='138'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='5'>Within weeks, the major powers were at war and the conflict soon spread around the world.
+          <Words>
+            <Word id='139'>Within</Word>
+            <Word id='140'>weeks</Word>
+            <Word id='141'>,</Word>
+            <Word id='142'>the</Word>
+            <Word id='143'>major</Word>
+            <Word id='144'>powers</Word>
+            <Word id='145'>were</Word>
+            <Word id='146'>at</Word>
+            <Word id='147'>war</Word>
+            <Word id='148'>and</Word>
+            <Word id='149'>the</Word>
+            <Word id='150'>conflict</Word>
+            <Word id='151'>soon</Word>
+            <Word id='152'>spread</Word>
+            <Word id='153'>around</Word>
+            <Word id='154'>the</Word>
+            <Word id='155'>world</Word>
+            <Word id='156'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+  </Paragrahs>
