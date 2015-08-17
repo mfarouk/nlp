@@ -1,0 +1,1805 @@
+<input type='text'>
+  <Paragrahs>
+    <Paragraph id='1'>Euclid's Elements has been referred to as the most successful and influential textbook ever written. First set in type in Venice in 1482, it is one of the very earliest mathematical works to be printed after the invention of the printing press and was estimated by Carl Benjamin Boyer to be second only to the Bible in the number of editions published, with the number reaching well over one thousand. For centuries, knowledge of at least part of the Elements was required of all students. Not until the 20th century, by which time its content was universally taught through other school textbooks, did it cease to be considered something all educated people had read.
+      <Sentences>
+        <Sentence id='1'>Euclid's Elements has been referred to as the most successful and influential textbook ever written.
+          <NamedEntities>
+            <NamedEntity id='1'>Euclid</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='1'>Euclid</Word>
+            <Word id='2'>'</Word>
+            <Word id='3'>s</Word>
+            <Word id='4'>Elements</Word>
+            <Word id='5'>has</Word>
+            <Word id='6'>been</Word>
+            <Word id='7'>referred</Word>
+            <Word id='8'>to</Word>
+            <Word id='9'>as</Word>
+            <Word id='10'>the</Word>
+            <Word id='11'>most</Word>
+            <Word id='12'>successful</Word>
+            <Word id='13'>and</Word>
+            <Word id='14'>influential</Word>
+            <Word id='15'>textbook</Word>
+            <Word id='16'>ever</Word>
+            <Word id='17'>written</Word>
+            <Word id='18'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='2'>First set in type in Venice in 1482, it is one of the very earliest mathematical works to be printed after the invention of the printing press and was estimated by Carl Benjamin Boyer to be second only to the Bible in the number of editions published, with the number reaching well over one thousand.
+          <NamedEntities>
+            <NamedEntity id='3'>Venice</NamedEntity>
+            <NamedEntity id='4'>Carl Benjamin Boyer</NamedEntity>
+            <NamedEntity id='5'>Bible</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='19'>First</Word>
+            <Word id='20'>set</Word>
+            <Word id='21'>in</Word>
+            <Word id='22'>type</Word>
+            <Word id='23'>in</Word>
+            <Word id='24'>Venice</Word>
+            <Word id='25'>in</Word>
+            <Word id='26'>1482</Word>
+            <Word id='27'>,</Word>
+            <Word id='28'>it</Word>
+            <Word id='29'>is</Word>
+            <Word id='30'>one</Word>
+            <Word id='31'>of</Word>
+            <Word id='32'>the</Word>
+            <Word id='33'>very</Word>
+            <Word id='34'>earliest</Word>
+            <Word id='35'>mathematical</Word>
+            <Word id='36'>works</Word>
+            <Word id='37'>to</Word>
+            <Word id='38'>be</Word>
+            <Word id='39'>printed</Word>
+            <Word id='40'>after</Word>
+            <Word id='41'>the</Word>
+            <Word id='42'>invention</Word>
+            <Word id='43'>of</Word>
+            <Word id='44'>the</Word>
+            <Word id='45'>printing</Word>
+            <Word id='46'>press</Word>
+            <Word id='47'>and</Word>
+            <Word id='48'>was</Word>
+            <Word id='49'>estimated</Word>
+            <Word id='50'>by</Word>
+            <Word id='51'>Carl</Word>
+            <Word id='52'>Benjamin</Word>
+            <Word id='53'>Boyer</Word>
+            <Word id='54'>to</Word>
+            <Word id='55'>be</Word>
+            <Word id='56'>second</Word>
+            <Word id='57'>only</Word>
+            <Word id='58'>to</Word>
+            <Word id='59'>the</Word>
+            <Word id='60'>Bible</Word>
+            <Word id='61'>in</Word>
+            <Word id='62'>the</Word>
+            <Word id='63'>number</Word>
+            <Word id='64'>of</Word>
+            <Word id='65'>editions</Word>
+            <Word id='66'>published</Word>
+            <Word id='67'>,</Word>
+            <Word id='68'>with</Word>
+            <Word id='69'>the</Word>
+            <Word id='70'>number</Word>
+            <Word id='71'>reaching</Word>
+            <Word id='72'>well</Word>
+            <Word id='73'>over</Word>
+            <Word id='74'>one</Word>
+            <Word id='75'>thousand</Word>
+            <Word id='76'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='3'>For centuries, knowledge of at least part of the Elements was required of all students.
+          <NamedEntities>
+            <NamedEntity id='2'>Elements</NamedEntity>
+            <NamedEntity id='6'>Elements</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='77'>For</Word>
+            <Word id='78'>centuries</Word>
+            <Word id='79'>,</Word>
+            <Word id='80'>knowledge</Word>
+            <Word id='81'>of</Word>
+            <Word id='82'>at</Word>
+            <Word id='83'>least</Word>
+            <Word id='84'>part</Word>
+            <Word id='85'>of</Word>
+            <Word id='86'>the</Word>
+            <Word id='87'>Elements</Word>
+            <Word id='88'>was</Word>
+            <Word id='89'>required</Word>
+            <Word id='90'>of</Word>
+            <Word id='91'>all</Word>
+            <Word id='92'>students</Word>
+            <Word id='93'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='4'>Not until the 20th century, by which time its content was universally taught through other school textbooks, did it cease to be considered something all educated people had read.
+          <NamedEntities />
+          <Words>
+            <Word id='94'>Not</Word>
+            <Word id='95'>until</Word>
+            <Word id='96'>the</Word>
+            <Word id='97'>20th</Word>
+            <Word id='98'>century</Word>
+            <Word id='99'>,</Word>
+            <Word id='100'>by</Word>
+            <Word id='101'>which</Word>
+            <Word id='102'>time</Word>
+            <Word id='103'>its</Word>
+            <Word id='104'>content</Word>
+            <Word id='105'>was</Word>
+            <Word id='106'>universally</Word>
+            <Word id='107'>taught</Word>
+            <Word id='108'>through</Word>
+            <Word id='109'>other</Word>
+            <Word id='110'>school</Word>
+            <Word id='111'>textbooks</Word>
+            <Word id='112'>,</Word>
+            <Word id='113'>did</Word>
+            <Word id='114'>it</Word>
+            <Word id='115'>cease</Word>
+            <Word id='116'>to</Word>
+            <Word id='117'>be</Word>
+            <Word id='118'>considered</Word>
+            <Word id='119'>something</Word>
+            <Word id='120'>all</Word>
+            <Word id='121'>educated</Word>
+            <Word id='122'>people</Word>
+            <Word id='123'>had</Word>
+            <Word id='124'>read</Word>
+            <Word id='125'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+  </Paragrahs>
+</input><input type='text'>
+  <Paragrahs>
+    <Paragraph id='1'>The Broyden–Fletcher–Goldfarb–Shanno (BFGS) algorithm is an iterative method for solving unconstrained nonlinear optimization problems. The BFGS method approximates Newton's method, a class of hill-climbing optimization techniques that seeks a stationary point of a (preferably twice continuously differentiable) function. For such problems, a necessary condition for optimality is that the gradient be zero. Newton's method and the BFGS methods are not guaranteed to converge unless the function has a quadratic Taylor expansion near an optimum. These methods use both the first and second derivatives of the function. However, BFGS has proven to have good performance even for non-smooth optimizations.
+      <Sentences>
+        <Sentence id='1'>The Broyden–Fletcher–Goldfarb–Shanno (BFGS) algorithm is an iterative method for solving unconstrained nonlinear optimization problems.
+          <NamedEntities>
+            <NamedEntity id='1'>Broyden–Fletcher–Goldfarb–Shanno</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='1'>The</Word>
+            <Word id='2'>Broyden</Word>
+            <Word id='3'>–Fletcher</Word>
+            <Word id='4'>–Goldfarb</Word>
+            <Word id='5'>–Shanno</Word>
+            <Word id='6'>(</Word>
+            <Word id='7'>BFGS</Word>
+            <Word id='8'>)</Word>
+            <Word id='9'>algorithm</Word>
+            <Word id='10'>is</Word>
+            <Word id='11'>an</Word>
+            <Word id='12'>iterative</Word>
+            <Word id='13'>method</Word>
+            <Word id='14'>for</Word>
+            <Word id='15'>solving</Word>
+            <Word id='16'>unconstrained</Word>
+            <Word id='17'>nonlinear</Word>
+            <Word id='18'>optimization</Word>
+            <Word id='19'>problems</Word>
+            <Word id='20'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='2'>The BFGS method approximates Newton's method, a class of hill-climbing optimization techniques that seeks a stationary point of a (preferably twice continuously differentiable) function.
+          <NamedEntities />
+          <Words>
+            <Word id='21'>The</Word>
+            <Word id='22'>BFGS</Word>
+            <Word id='23'>method</Word>
+            <Word id='24'>approximates</Word>
+            <Word id='25'>Newton</Word>
+            <Word id='26'>'</Word>
+            <Word id='27'>s</Word>
+            <Word id='28'>method</Word>
+            <Word id='29'>,</Word>
+            <Word id='30'>a</Word>
+            <Word id='31'>class</Word>
+            <Word id='32'>of</Word>
+            <Word id='33'>hill</Word>
+            <Word id='34'>-</Word>
+            <Word id='35'>climbing</Word>
+            <Word id='36'>optimization</Word>
+            <Word id='37'>techniques</Word>
+            <Word id='38'>that</Word>
+            <Word id='39'>seeks</Word>
+            <Word id='40'>a</Word>
+            <Word id='41'>stationary</Word>
+            <Word id='42'>point</Word>
+            <Word id='43'>of</Word>
+            <Word id='44'>a</Word>
+            <Word id='45'>(</Word>
+            <Word id='46'>preferably</Word>
+            <Word id='47'>twice</Word>
+            <Word id='48'>continuously</Word>
+            <Word id='49'>differentiable</Word>
+            <Word id='50'>)</Word>
+            <Word id='51'>function</Word>
+            <Word id='52'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='3'>For such problems, a necessary condition for optimality is that the gradient be zero.
+          <NamedEntities />
+          <Words>
+            <Word id='53'>For</Word>
+            <Word id='54'>such</Word>
+            <Word id='55'>problems</Word>
+            <Word id='56'>,</Word>
+            <Word id='57'>a</Word>
+            <Word id='58'>necessary</Word>
+            <Word id='59'>condition</Word>
+            <Word id='60'>for</Word>
+            <Word id='61'>optimality</Word>
+            <Word id='62'>is</Word>
+            <Word id='63'>that</Word>
+            <Word id='64'>the</Word>
+            <Word id='65'>gradient</Word>
+            <Word id='66'>be</Word>
+            <Word id='67'>zero</Word>
+            <Word id='68'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='4'>Newton's method and the BFGS methods are not guaranteed to converge unless the function has a quadratic Taylor expansion near an optimum.
+          <NamedEntities>
+            <NamedEntity id='3'>Newton</NamedEntity>
+            <NamedEntity id='5'>Newton</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='69'>Newton</Word>
+            <Word id='70'>'</Word>
+            <Word id='71'>s</Word>
+            <Word id='72'>method</Word>
+            <Word id='73'>and</Word>
+            <Word id='74'>the</Word>
+            <Word id='75'>BFGS</Word>
+            <Word id='76'>methods</Word>
+            <Word id='77'>are</Word>
+            <Word id='78'>not</Word>
+            <Word id='79'>guaranteed</Word>
+            <Word id='80'>to</Word>
+            <Word id='81'>converge</Word>
+            <Word id='82'>unless</Word>
+            <Word id='83'>the</Word>
+            <Word id='84'>function</Word>
+            <Word id='85'>has</Word>
+            <Word id='86'>a</Word>
+            <Word id='87'>quadratic</Word>
+            <Word id='88'>Taylor</Word>
+            <Word id='89'>expansion</Word>
+            <Word id='90'>near</Word>
+            <Word id='91'>an</Word>
+            <Word id='92'>optimum</Word>
+            <Word id='93'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='5'>These methods use both the first and second derivatives of the function.
+          <NamedEntities />
+          <Words>
+            <Word id='94'>These</Word>
+            <Word id='95'>methods</Word>
+            <Word id='96'>use</Word>
+            <Word id='97'>both</Word>
+            <Word id='98'>the</Word>
+            <Word id='99'>first</Word>
+            <Word id='100'>and</Word>
+            <Word id='101'>second</Word>
+            <Word id='102'>derivatives</Word>
+            <Word id='103'>of</Word>
+            <Word id='104'>the</Word>
+            <Word id='105'>function</Word>
+            <Word id='106'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='6'>However, BFGS has proven to have good performance even for non-smooth optimizations.
+          <NamedEntities>
+            <NamedEntity id='2'>BFGS</NamedEntity>
+            <NamedEntity id='4'>BFGS</NamedEntity>
+            <NamedEntity id='6'>BFGS</NamedEntity>
+            <NamedEntity id='7'>BFGS</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='107'>However</Word>
+            <Word id='108'>,</Word>
+            <Word id='109'>BFGS</Word>
+            <Word id='110'>has</Word>
+            <Word id='111'>proven</Word>
+            <Word id='112'>to</Word>
+            <Word id='113'>have</Word>
+            <Word id='114'>good</Word>
+            <Word id='115'>performance</Word>
+            <Word id='116'>even</Word>
+            <Word id='117'>for</Word>
+            <Word id='118'>non</Word>
+            <Word id='119'>-</Word>
+            <Word id='120'>smooth</Word>
+            <Word id='121'>optimizations</Word>
+            <Word id='122'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+  </Paragrahs>
+</input><input type='text'>
+  <Paragrahs>
+    <Paragraph id='1'>Montgomery Castle is a stone masonry castle looking over the town of Montgomery in Powys, Wales. It is one of many Norman castles on the border between Wales and England. The original castle was built at the order of Roger de Montgomery, earl of Shrewsbury sometime between 1071 and 1074. On the rebellion of his son Robert of Belleme in 1102, the castle was given to Baldwin de Boulers. In 1267 Montgomery was the meeting place for treaty negotiations, where King Henry III granted Llywelyn ap Gruffudd the title of Prince of Wales. After 1295 and the final Welsh War of the thirteenth century the castle became more of a military backwater and prison than a front line fortress.
+      <Sentences>
+        <Sentence id='1'>Montgomery Castle is a stone masonry castle looking over the town of Montgomery in Powys, Wales.
+          <NamedEntities>
+            <NamedEntity id='1'>Montgomery Castle</NamedEntity>
+            <NamedEntity id='2'>Powys</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='1'>Montgomery</Word>
+            <Word id='2'>Castle</Word>
+            <Word id='3'>is</Word>
+            <Word id='4'>a</Word>
+            <Word id='5'>stone</Word>
+            <Word id='6'>masonry</Word>
+            <Word id='7'>castle</Word>
+            <Word id='8'>looking</Word>
+            <Word id='9'>over</Word>
+            <Word id='10'>the</Word>
+            <Word id='11'>town</Word>
+            <Word id='12'>of</Word>
+            <Word id='13'>Montgomery</Word>
+            <Word id='14'>in</Word>
+            <Word id='15'>Powys</Word>
+            <Word id='16'>,</Word>
+            <Word id='17'>Wales</Word>
+            <Word id='18'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='2'>It is one of many Norman castles on the border between Wales and England.
+          <NamedEntities>
+            <NamedEntity id='5'>England</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='19'>It</Word>
+            <Word id='20'>is</Word>
+            <Word id='21'>one</Word>
+            <Word id='22'>of</Word>
+            <Word id='23'>many</Word>
+            <Word id='24'>Norman</Word>
+            <Word id='25'>castles</Word>
+            <Word id='26'>on</Word>
+            <Word id='27'>the</Word>
+            <Word id='28'>border</Word>
+            <Word id='29'>between</Word>
+            <Word id='30'>Wales</Word>
+            <Word id='31'>and</Word>
+            <Word id='32'>England</Word>
+            <Word id='33'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='3'>The original castle was built at the order of Roger de Montgomery, earl of Shrewsbury sometime between 1071 and 1074.
+          <NamedEntities>
+            <NamedEntity id='6'>Roger de Montgomery</NamedEntity>
+            <NamedEntity id='7'>Shrewsbury</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='34'>The</Word>
+            <Word id='35'>original</Word>
+            <Word id='36'>castle</Word>
+            <Word id='37'>was</Word>
+            <Word id='38'>built</Word>
+            <Word id='39'>at</Word>
+            <Word id='40'>the</Word>
+            <Word id='41'>order</Word>
+            <Word id='42'>of</Word>
+            <Word id='43'>Roger</Word>
+            <Word id='44'>de</Word>
+            <Word id='45'>Montgomery</Word>
+            <Word id='46'>,</Word>
+            <Word id='47'>earl</Word>
+            <Word id='48'>of</Word>
+            <Word id='49'>Shrewsbury</Word>
+            <Word id='50'>sometime</Word>
+            <Word id='51'>between</Word>
+            <Word id='52'>1071</Word>
+            <Word id='53'>and</Word>
+            <Word id='54'>1074</Word>
+            <Word id='55'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='4'>On the rebellion of his son Robert of Belleme in 1102, the castle was given to Baldwin de Boulers.
+          <NamedEntities>
+            <NamedEntity id='8'>Robert of Belleme</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='56'>On</Word>
+            <Word id='57'>the</Word>
+            <Word id='58'>rebellion</Word>
+            <Word id='59'>of</Word>
+            <Word id='60'>his</Word>
+            <Word id='61'>son</Word>
+            <Word id='62'>Robert</Word>
+            <Word id='63'>of</Word>
+            <Word id='64'>Belleme</Word>
+            <Word id='65'>in</Word>
+            <Word id='66'>1102</Word>
+            <Word id='67'>,</Word>
+            <Word id='68'>the</Word>
+            <Word id='69'>castle</Word>
+            <Word id='70'>was</Word>
+            <Word id='71'>given</Word>
+            <Word id='72'>to</Word>
+            <Word id='73'>Baldwin</Word>
+            <Word id='74'>de</Word>
+            <Word id='75'>Boulers</Word>
+            <Word id='76'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='5'>In 1267 Montgomery was the meeting place for treaty negotiations, where King Henry III granted Llywelyn ap Gruffudd the title of Prince of Wales.
+          <NamedEntities>
+            <NamedEntity id='3'>Wales</NamedEntity>
+            <NamedEntity id='4'>Wales</NamedEntity>
+            <NamedEntity id='9'>Wales</NamedEntity>
+            <NamedEntity id='10'>King Henry III</NamedEntity>
+            <NamedEntity id='11'>Llywelyn ap Gruffudd</NamedEntity>
+            <NamedEntity id='12'>Prince of Wales</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='77'>In</Word>
+            <Word id='78'>1267</Word>
+            <Word id='79'>Montgomery</Word>
+            <Word id='80'>was</Word>
+            <Word id='81'>the</Word>
+            <Word id='82'>meeting</Word>
+            <Word id='83'>place</Word>
+            <Word id='84'>for</Word>
+            <Word id='85'>treaty</Word>
+            <Word id='86'>negotiations</Word>
+            <Word id='87'>,</Word>
+            <Word id='88'>where</Word>
+            <Word id='89'>King</Word>
+            <Word id='90'>Henry</Word>
+            <Word id='91'>III</Word>
+            <Word id='92'>granted</Word>
+            <Word id='93'>Llywelyn</Word>
+            <Word id='94'>ap</Word>
+            <Word id='95'>Gruffudd</Word>
+            <Word id='96'>the</Word>
+            <Word id='97'>title</Word>
+            <Word id='98'>of</Word>
+            <Word id='99'>Prince</Word>
+            <Word id='100'>of</Word>
+            <Word id='101'>Wales</Word>
+            <Word id='102'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='6'>After 1295 and the final Welsh War of the thirteenth century the castle became more of a military backwater and prison than a front line fortress.
+          <NamedEntities />
+          <Words>
+            <Word id='103'>After</Word>
+            <Word id='104'>1295</Word>
+            <Word id='105'>and</Word>
+            <Word id='106'>the</Word>
+            <Word id='107'>final</Word>
+            <Word id='108'>Welsh</Word>
+            <Word id='109'>War</Word>
+            <Word id='110'>of</Word>
+            <Word id='111'>the</Word>
+            <Word id='112'>thirteenth</Word>
+            <Word id='113'>century</Word>
+            <Word id='114'>the</Word>
+            <Word id='115'>castle</Word>
+            <Word id='116'>became</Word>
+            <Word id='117'>more</Word>
+            <Word id='118'>of</Word>
+            <Word id='119'>a</Word>
+            <Word id='120'>military</Word>
+            <Word id='121'>backwater</Word>
+            <Word id='122'>and</Word>
+            <Word id='123'>prison</Word>
+            <Word id='124'>than</Word>
+            <Word id='125'>a</Word>
+            <Word id='126'>front</Word>
+            <Word id='127'>line</Word>
+            <Word id='128'>fortress</Word>
+            <Word id='129'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+  </Paragrahs>
+</input><input type='text'>
+  <Paragrahs>
+    <Paragraph id='1'>The Antikythera mechanism is an ancient analog computer designed to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the cycles of Olympic Games.
+      <Sentences>
+        <Sentence id='1'>The Antikythera mechanism is an ancient analog computer designed to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the cycles of Olympic Games.
+          <NamedEntities>
+            <NamedEntity id='2'>Olympic Games</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='1'>The</Word>
+            <Word id='2'>Antikythera</Word>
+            <Word id='3'>mechanism</Word>
+            <Word id='4'>is</Word>
+            <Word id='5'>an</Word>
+            <Word id='6'>ancient</Word>
+            <Word id='7'>analog</Word>
+            <Word id='8'>computer</Word>
+            <Word id='9'>designed</Word>
+            <Word id='10'>to</Word>
+            <Word id='11'>predict</Word>
+            <Word id='12'>astronomical</Word>
+            <Word id='13'>positions</Word>
+            <Word id='14'>and</Word>
+            <Word id='15'>eclipses</Word>
+            <Word id='16'>for</Word>
+            <Word id='17'>calendrical</Word>
+            <Word id='18'>and</Word>
+            <Word id='19'>astrological</Word>
+            <Word id='20'>purposes</Word>
+            <Word id='21'>,</Word>
+            <Word id='22'>as</Word>
+            <Word id='23'>well</Word>
+            <Word id='24'>as</Word>
+            <Word id='25'>the</Word>
+            <Word id='26'>cycles</Word>
+            <Word id='27'>of</Word>
+            <Word id='28'>Olympic</Word>
+            <Word id='29'>Games</Word>
+            <Word id='30'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+    <Paragraph id='2'>Found housed in a 340 ? 180 ? 90 mm wooden box, the device is a complex clockwork mechanism composed of at least 30 meshing bronze gears. Its remains were found as 82 separate fragments, of which only seven contain any gears or significant inscriptions. The largest gear is approximately 140 mm in diameter.
+      <Sentences>
+        <Sentence id='2'>Found housed in a 340 ? 180 ? 90 mm wooden box, the device is a complex clockwork mechanism composed of at least 30 meshing bronze gears.
+          <NamedEntities />
+          <Words>
+            <Word id='31'>Found</Word>
+            <Word id='32'>housed</Word>
+            <Word id='33'>in</Word>
+            <Word id='34'>a</Word>
+            <Word id='35'>340</Word>
+            <Word id='36'>?</Word>
+            <Word id='37'>180</Word>
+            <Word id='38'>?</Word>
+            <Word id='39'>90</Word>
+            <Word id='40'>mm</Word>
+            <Word id='41'>wooden</Word>
+            <Word id='42'>box</Word>
+            <Word id='43'>,</Word>
+            <Word id='44'>the</Word>
+            <Word id='45'>device</Word>
+            <Word id='46'>is</Word>
+            <Word id='47'>a</Word>
+            <Word id='48'>complex</Word>
+            <Word id='49'>clockwork</Word>
+            <Word id='50'>mechanism</Word>
+            <Word id='51'>composed</Word>
+            <Word id='52'>of</Word>
+            <Word id='53'>at</Word>
+            <Word id='54'>least</Word>
+            <Word id='55'>30</Word>
+            <Word id='56'>meshing</Word>
+            <Word id='57'>bronze</Word>
+            <Word id='58'>gears</Word>
+            <Word id='59'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='3'>Its remains were found as 82 separate fragments, of which only seven contain any gears or significant inscriptions.
+          <NamedEntities />
+          <Words>
+            <Word id='60'>Its</Word>
+            <Word id='61'>remains</Word>
+            <Word id='62'>were</Word>
+            <Word id='63'>found</Word>
+            <Word id='64'>as</Word>
+            <Word id='65'>82</Word>
+            <Word id='66'>separate</Word>
+            <Word id='67'>fragments</Word>
+            <Word id='68'>,</Word>
+            <Word id='69'>of</Word>
+            <Word id='70'>which</Word>
+            <Word id='71'>only</Word>
+            <Word id='72'>seven</Word>
+            <Word id='73'>contain</Word>
+            <Word id='74'>any</Word>
+            <Word id='75'>gears</Word>
+            <Word id='76'>or</Word>
+            <Word id='77'>significant</Word>
+            <Word id='78'>inscriptions</Word>
+            <Word id='79'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='4'>The largest gear is approximately 140 mm in diameter.
+          <NamedEntities />
+          <Words>
+            <Word id='80'>The</Word>
+            <Word id='81'>largest</Word>
+            <Word id='82'>gear</Word>
+            <Word id='83'>is</Word>
+            <Word id='84'>approximately</Word>
+            <Word id='85'>140</Word>
+            <Word id='86'>mm</Word>
+            <Word id='87'>in</Word>
+            <Word id='88'>diameter</Word>
+            <Word id='89'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+    <Paragraph id='3'>The artifact was recovered in 1901 from the Antikythera shipwreck off the Greek island of Antikythera. Believed to have been designed and constructed by Greek scientists, the instrument has been dated either between 150 to 100 BC or, according to a more recent view, at 205 BC.
+      <Sentences>
+        <Sentence id='5'>The artifact was recovered in 1901 from the Antikythera shipwreck off the Greek island of Antikythera.
+          <NamedEntities>
+            <NamedEntity id='1'>Antikythera</NamedEntity>
+            <NamedEntity id='3'>Antikythera</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='90'>The</Word>
+            <Word id='91'>artifact</Word>
+            <Word id='92'>was</Word>
+            <Word id='93'>recovered</Word>
+            <Word id='94'>in</Word>
+            <Word id='95'>1901</Word>
+            <Word id='96'>from</Word>
+            <Word id='97'>the</Word>
+            <Word id='98'>Antikythera</Word>
+            <Word id='99'>shipwreck</Word>
+            <Word id='100'>off</Word>
+            <Word id='101'>the</Word>
+            <Word id='102'>Greek</Word>
+            <Word id='103'>island</Word>
+            <Word id='104'>of</Word>
+            <Word id='105'>Antikythera</Word>
+            <Word id='106'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='6'>Believed to have been designed and constructed by Greek scientists, the instrument has been dated either between 150 to 100 BC or, according to a more recent view, at 205 BC.
+          <NamedEntities />
+          <Words>
+            <Word id='107'>Believed</Word>
+            <Word id='108'>to</Word>
+            <Word id='109'>have</Word>
+            <Word id='110'>been</Word>
+            <Word id='111'>designed</Word>
+            <Word id='112'>and</Word>
+            <Word id='113'>constructed</Word>
+            <Word id='114'>by</Word>
+            <Word id='115'>Greek</Word>
+            <Word id='116'>scientists</Word>
+            <Word id='117'>,</Word>
+            <Word id='118'>the</Word>
+            <Word id='119'>instrument</Word>
+            <Word id='120'>has</Word>
+            <Word id='121'>been</Word>
+            <Word id='122'>dated</Word>
+            <Word id='123'>either</Word>
+            <Word id='124'>between</Word>
+            <Word id='125'>150</Word>
+            <Word id='126'>to</Word>
+            <Word id='127'>100</Word>
+            <Word id='128'>BC</Word>
+            <Word id='129'>or</Word>
+            <Word id='130'>,</Word>
+            <Word id='131'>according</Word>
+            <Word id='132'>to</Word>
+            <Word id='133'>a</Word>
+            <Word id='134'>more</Word>
+            <Word id='135'>recent</Word>
+            <Word id='136'>view</Word>
+            <Word id='137'>,</Word>
+            <Word id='138'>at</Word>
+            <Word id='139'>205</Word>
+            <Word id='140'>BC</Word>
+            <Word id='141'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+  </Paragrahs>
+</input><input type='text'>
+  <Paragrahs>
+    <Paragraph id='1'>Horseshoe crabs are marine arthropods that live primarily in and around shallow ocean waters on soft sandy or muddy bottoms. They occasionally come onto shore to mate. They are commonly used as bait and in fertilizer. In recent years, a decline in the population has occurred as a consequence of coastal habitat destruction in Japan and overharvesting along the east coast of North America. 
+      <Sentences>
+        <Sentence id='1'>Horseshoe crabs are marine arthropods that live primarily in and around shallow ocean waters on soft sandy or muddy bottoms.
+          <NamedEntities />
+          <Words>
+            <Word id='1'>Horseshoe</Word>
+            <Word id='2'>crabs</Word>
+            <Word id='3'>are</Word>
+            <Word id='4'>marine</Word>
+            <Word id='5'>arthropods</Word>
+            <Word id='6'>that</Word>
+            <Word id='7'>live</Word>
+            <Word id='8'>primarily</Word>
+            <Word id='9'>in</Word>
+            <Word id='10'>and</Word>
+            <Word id='11'>around</Word>
+            <Word id='12'>shallow</Word>
+            <Word id='13'>ocean</Word>
+            <Word id='14'>waters</Word>
+            <Word id='15'>on</Word>
+            <Word id='16'>soft</Word>
+            <Word id='17'>sandy</Word>
+            <Word id='18'>or</Word>
+            <Word id='19'>muddy</Word>
+            <Word id='20'>bottoms</Word>
+            <Word id='21'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='2'>They occasionally come onto shore to mate.
+          <NamedEntities />
+          <Words>
+            <Word id='22'>They</Word>
+            <Word id='23'>occasionally</Word>
+            <Word id='24'>come</Word>
+            <Word id='25'>onto</Word>
+            <Word id='26'>shore</Word>
+            <Word id='27'>to</Word>
+            <Word id='28'>mate</Word>
+            <Word id='29'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='3'>They are commonly used as bait and in fertilizer.
+          <NamedEntities />
+          <Words>
+            <Word id='30'>They</Word>
+            <Word id='31'>are</Word>
+            <Word id='32'>commonly</Word>
+            <Word id='33'>used</Word>
+            <Word id='34'>as</Word>
+            <Word id='35'>bait</Word>
+            <Word id='36'>and</Word>
+            <Word id='37'>in</Word>
+            <Word id='38'>fertilizer</Word>
+            <Word id='39'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='4'>In recent years, a decline in the population has occurred as a consequence of coastal habitat destruction in Japan and overharvesting along the east coast of North America.
+          <NamedEntities>
+            <NamedEntity id='1'>Japan</NamedEntity>
+            <NamedEntity id='2'>North America</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='40'>In</Word>
+            <Word id='41'>recent</Word>
+            <Word id='42'>years</Word>
+            <Word id='43'>,</Word>
+            <Word id='44'>a</Word>
+            <Word id='45'>decline</Word>
+            <Word id='46'>in</Word>
+            <Word id='47'>the</Word>
+            <Word id='48'>population</Word>
+            <Word id='49'>has</Word>
+            <Word id='50'>occurred</Word>
+            <Word id='51'>as</Word>
+            <Word id='52'>a</Word>
+            <Word id='53'>consequence</Word>
+            <Word id='54'>of</Word>
+            <Word id='55'>coastal</Word>
+            <Word id='56'>habitat</Word>
+            <Word id='57'>destruction</Word>
+            <Word id='58'>in</Word>
+            <Word id='59'>Japan</Word>
+            <Word id='60'>and</Word>
+            <Word id='61'>overharvesting</Word>
+            <Word id='62'>along</Word>
+            <Word id='63'>the</Word>
+            <Word id='64'>east</Word>
+            <Word id='65'>coast</Word>
+            <Word id='66'>of</Word>
+            <Word id='67'>North</Word>
+            <Word id='68'>America</Word>
+            <Word id='69'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='5'>
+          <NamedEntities />
+          <Words />
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+    <Paragraph id='2'>Because of their origin 450 million years ago (Mya), horseshoe crabs are considered living fossils. Horseshoe crabs resemble crustaceans, but belong to a separate subphylum, and are closely related to arachnids. The earliest horseshoe crab fossils are found in strata from the late Ordovician period, roughly 450 Mya.
+      <Sentences>
+        <Sentence id='6'>Because of their origin 450 million years ago (Mya), horseshoe crabs are considered living fossils.
+          <NamedEntities />
+          <Words>
+            <Word id='70'>Because</Word>
+            <Word id='71'>of</Word>
+            <Word id='72'>their</Word>
+            <Word id='73'>origin</Word>
+            <Word id='74'>450</Word>
+            <Word id='75'>million</Word>
+            <Word id='76'>years</Word>
+            <Word id='77'>ago</Word>
+            <Word id='78'>(</Word>
+            <Word id='79'>Mya</Word>
+            <Word id='80'>)</Word>
+            <Word id='81'>,</Word>
+            <Word id='82'>horseshoe</Word>
+            <Word id='83'>crabs</Word>
+            <Word id='84'>are</Word>
+            <Word id='85'>considered</Word>
+            <Word id='86'>living</Word>
+            <Word id='87'>fossils</Word>
+            <Word id='88'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='7'>Horseshoe crabs resemble crustaceans, but belong to a separate subphylum, and are closely related to arachnids.
+          <NamedEntities />
+          <Words>
+            <Word id='89'>Horseshoe</Word>
+            <Word id='90'>crabs</Word>
+            <Word id='91'>resemble</Word>
+            <Word id='92'>crustaceans</Word>
+            <Word id='93'>,</Word>
+            <Word id='94'>but</Word>
+            <Word id='95'>belong</Word>
+            <Word id='96'>to</Word>
+            <Word id='97'>a</Word>
+            <Word id='98'>separate</Word>
+            <Word id='99'>subphylum</Word>
+            <Word id='100'>,</Word>
+            <Word id='101'>and</Word>
+            <Word id='102'>are</Word>
+            <Word id='103'>closely</Word>
+            <Word id='104'>related</Word>
+            <Word id='105'>to</Word>
+            <Word id='106'>arachnids</Word>
+            <Word id='107'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='8'>The earliest horseshoe crab fossils are found in strata from the late Ordovician period, roughly 450 Mya.
+          <NamedEntities />
+          <Words>
+            <Word id='108'>The</Word>
+            <Word id='109'>earliest</Word>
+            <Word id='110'>horseshoe</Word>
+            <Word id='111'>crab</Word>
+            <Word id='112'>fossils</Word>
+            <Word id='113'>are</Word>
+            <Word id='114'>found</Word>
+            <Word id='115'>in</Word>
+            <Word id='116'>strata</Word>
+            <Word id='117'>from</Word>
+            <Word id='118'>the</Word>
+            <Word id='119'>late</Word>
+            <Word id='120'>Ordovician</Word>
+            <Word id='121'>period</Word>
+            <Word id='122'>,</Word>
+            <Word id='123'>roughly</Word>
+            <Word id='124'>450</Word>
+            <Word id='125'>Mya</Word>
+            <Word id='126'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+  </Paragrahs>
+</input><input type='text'>
+  <Paragrahs>
+    <Paragraph id='1'>A differentiable manifold is a type of manifold that is locally similar enough to a linear space to allow one to do calculus. Any manifold can be described by a collection of charts, also known as an atlas. One may then apply ideas from calculus while working within the individual charts, since each chart lies within a linear space to which the usual rules of calculus apply. If the charts are suitably compatible (namely, the transition from one chart to another is differentiable), then computations done in one chart are valid in any other differentiable chart.
+      <Sentences>
+        <Sentence id='1'>A differentiable manifold is a type of manifold that is locally similar enough to a linear space to allow one to do calculus.
+          <NamedEntities />
+          <Words>
+            <Word id='1'>A</Word>
+            <Word id='2'>differentiable</Word>
+            <Word id='3'>manifold</Word>
+            <Word id='4'>is</Word>
+            <Word id='5'>a</Word>
+            <Word id='6'>type</Word>
+            <Word id='7'>of</Word>
+            <Word id='8'>manifold</Word>
+            <Word id='9'>that</Word>
+            <Word id='10'>is</Word>
+            <Word id='11'>locally</Word>
+            <Word id='12'>similar</Word>
+            <Word id='13'>enough</Word>
+            <Word id='14'>to</Word>
+            <Word id='15'>a</Word>
+            <Word id='16'>linear</Word>
+            <Word id='17'>space</Word>
+            <Word id='18'>to</Word>
+            <Word id='19'>allow</Word>
+            <Word id='20'>one</Word>
+            <Word id='21'>to</Word>
+            <Word id='22'>do</Word>
+            <Word id='23'>calculus</Word>
+            <Word id='24'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='2'>Any manifold can be described by a collection of charts, also known as an atlas.
+          <NamedEntities />
+          <Words>
+            <Word id='25'>Any</Word>
+            <Word id='26'>manifold</Word>
+            <Word id='27'>can</Word>
+            <Word id='28'>be</Word>
+            <Word id='29'>described</Word>
+            <Word id='30'>by</Word>
+            <Word id='31'>a</Word>
+            <Word id='32'>collection</Word>
+            <Word id='33'>of</Word>
+            <Word id='34'>charts</Word>
+            <Word id='35'>,</Word>
+            <Word id='36'>also</Word>
+            <Word id='37'>known</Word>
+            <Word id='38'>as</Word>
+            <Word id='39'>an</Word>
+            <Word id='40'>atlas</Word>
+            <Word id='41'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='3'>One may then apply ideas from calculus while working within the individual charts, since each chart lies within a linear space to which the usual rules of calculus apply.
+          <NamedEntities />
+          <Words>
+            <Word id='42'>One</Word>
+            <Word id='43'>may</Word>
+            <Word id='44'>then</Word>
+            <Word id='45'>apply</Word>
+            <Word id='46'>ideas</Word>
+            <Word id='47'>from</Word>
+            <Word id='48'>calculus</Word>
+            <Word id='49'>while</Word>
+            <Word id='50'>working</Word>
+            <Word id='51'>within</Word>
+            <Word id='52'>the</Word>
+            <Word id='53'>individual</Word>
+            <Word id='54'>charts</Word>
+            <Word id='55'>,</Word>
+            <Word id='56'>since</Word>
+            <Word id='57'>each</Word>
+            <Word id='58'>chart</Word>
+            <Word id='59'>lies</Word>
+            <Word id='60'>within</Word>
+            <Word id='61'>a</Word>
+            <Word id='62'>linear</Word>
+            <Word id='63'>space</Word>
+            <Word id='64'>to</Word>
+            <Word id='65'>which</Word>
+            <Word id='66'>the</Word>
+            <Word id='67'>usual</Word>
+            <Word id='68'>rules</Word>
+            <Word id='69'>of</Word>
+            <Word id='70'>calculus</Word>
+            <Word id='71'>apply</Word>
+            <Word id='72'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='4'>If the charts are suitably compatible (namely, the transition from one chart to another is differentiable), then computations done in one chart are valid in any other differentiable chart.
+          <NamedEntities />
+          <Words>
+            <Word id='73'>If</Word>
+            <Word id='74'>the</Word>
+            <Word id='75'>charts</Word>
+            <Word id='76'>are</Word>
+            <Word id='77'>suitably</Word>
+            <Word id='78'>compatible</Word>
+            <Word id='79'>(</Word>
+            <Word id='80'>namely</Word>
+            <Word id='81'>,</Word>
+            <Word id='82'>the</Word>
+            <Word id='83'>transition</Word>
+            <Word id='84'>from</Word>
+            <Word id='85'>one</Word>
+            <Word id='86'>chart</Word>
+            <Word id='87'>to</Word>
+            <Word id='88'>another</Word>
+            <Word id='89'>is</Word>
+            <Word id='90'>differentiable</Word>
+            <Word id='91'>)</Word>
+            <Word id='92'>,</Word>
+            <Word id='93'>then</Word>
+            <Word id='94'>computations</Word>
+            <Word id='95'>done</Word>
+            <Word id='96'>in</Word>
+            <Word id='97'>one</Word>
+            <Word id='98'>chart</Word>
+            <Word id='99'>are</Word>
+            <Word id='100'>valid</Word>
+            <Word id='101'>in</Word>
+            <Word id='102'>any</Word>
+            <Word id='103'>other</Word>
+            <Word id='104'>differentiable</Word>
+            <Word id='105'>chart</Word>
+            <Word id='106'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+  </Paragrahs>
+</input><input type='text'>
+  <Paragrahs>
+    <Paragraph id='1'>Sun Microsystems, Inc. was a company that sold computers, computer components, computer software, and information technology services and that created the Java programming language and the Network File System (NFS). Sun significantly evolved several key computing technologies, among them Unix, RISC processors, thin client computing, and virtualized computing. Sun was founded on February 24, 1982.
+      <Sentences>
+        <Sentence id='1'>Sun Microsystems, Inc. was a company that sold computers, computer components, computer software, and information technology services and that created the Java programming language and the Network File System (NFS).
+          <NamedEntities>
+            <NamedEntity id='1'>Sun Microsystems</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='1'>Sun</Word>
+            <Word id='2'>Microsystems</Word>
+            <Word id='3'>,</Word>
+            <Word id='4'>Inc</Word>
+            <Word id='5'>.</Word>
+            <Word id='6'>was</Word>
+            <Word id='7'>a</Word>
+            <Word id='8'>company</Word>
+            <Word id='9'>that</Word>
+            <Word id='10'>sold</Word>
+            <Word id='11'>computers</Word>
+            <Word id='12'>,</Word>
+            <Word id='13'>computer</Word>
+            <Word id='14'>components</Word>
+            <Word id='15'>,</Word>
+            <Word id='16'>computer</Word>
+            <Word id='17'>software</Word>
+            <Word id='18'>,</Word>
+            <Word id='19'>and</Word>
+            <Word id='20'>information</Word>
+            <Word id='21'>technology</Word>
+            <Word id='22'>services</Word>
+            <Word id='23'>and</Word>
+            <Word id='24'>that</Word>
+            <Word id='25'>created</Word>
+            <Word id='26'>the</Word>
+            <Word id='27'>Java</Word>
+            <Word id='28'>programming</Word>
+            <Word id='29'>language</Word>
+            <Word id='30'>and</Word>
+            <Word id='31'>the</Word>
+            <Word id='32'>Network</Word>
+            <Word id='33'>File</Word>
+            <Word id='34'>System</Word>
+            <Word id='35'>(</Word>
+            <Word id='36'>NFS</Word>
+            <Word id='37'>)</Word>
+            <Word id='38'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='2'>Sun significantly evolved several key computing technologies, among them Unix, RISC processors, thin client computing, and virtualized computing.
+          <NamedEntities />
+          <Words>
+            <Word id='39'>Sun</Word>
+            <Word id='40'>significantly</Word>
+            <Word id='41'>evolved</Word>
+            <Word id='42'>several</Word>
+            <Word id='43'>key</Word>
+            <Word id='44'>computing</Word>
+            <Word id='45'>technologies</Word>
+            <Word id='46'>,</Word>
+            <Word id='47'>among</Word>
+            <Word id='48'>them</Word>
+            <Word id='49'>Unix</Word>
+            <Word id='50'>,</Word>
+            <Word id='51'>RISC</Word>
+            <Word id='52'>processors</Word>
+            <Word id='53'>,</Word>
+            <Word id='54'>thin</Word>
+            <Word id='55'>client</Word>
+            <Word id='56'>computing</Word>
+            <Word id='57'>,</Word>
+            <Word id='58'>and</Word>
+            <Word id='59'>virtualized</Word>
+            <Word id='60'>computing</Word>
+            <Word id='61'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='3'>Sun was founded on February 24, 1982.
+          <NamedEntities />
+          <Words>
+            <Word id='62'>Sun</Word>
+            <Word id='63'>was</Word>
+            <Word id='64'>founded</Word>
+            <Word id='65'>on</Word>
+            <Word id='66'>February</Word>
+            <Word id='67'>24</Word>
+            <Word id='68'>,</Word>
+            <Word id='69'>1982</Word>
+            <Word id='70'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+    <Paragraph id='2'>On January 27, 2010, Sun was acquired by Oracle Corporation for US $7.4 billion. The following month, Sun was merged with Oracle USA, Inc. to become Oracle America, Inc.
+      <Sentences>
+        <Sentence id='4'>On January 27, 2010, Sun was acquired by Oracle Corporation for US $7.
+          <NamedEntities>
+            <NamedEntity id='6'>Oracle Corporation</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='71'>On</Word>
+            <Word id='72'>January</Word>
+            <Word id='73'>27</Word>
+            <Word id='74'>,</Word>
+            <Word id='75'>2010</Word>
+            <Word id='76'>,</Word>
+            <Word id='77'>Sun</Word>
+            <Word id='78'>was</Word>
+            <Word id='79'>acquired</Word>
+            <Word id='80'>by</Word>
+            <Word id='81'>Oracle</Word>
+            <Word id='82'>Corporation</Word>
+            <Word id='83'>for</Word>
+            <Word id='84'>US</Word>
+            <Word id='85'>$7</Word>
+            <Word id='86'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='5'>4 billion.
+          <NamedEntities />
+          <Words>
+            <Word id='87'>4</Word>
+            <Word id='88'>billion</Word>
+            <Word id='89'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='6'>The following month, Sun was merged with Oracle USA, Inc. to become Oracle America, Inc.
+          <NamedEntities>
+            <NamedEntity id='2'>Sun</NamedEntity>
+            <NamedEntity id='3'>Sun</NamedEntity>
+            <NamedEntity id='4'>Sun</NamedEntity>
+            <NamedEntity id='5'>Sun</NamedEntity>
+            <NamedEntity id='7'>Sun</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='90'>The</Word>
+            <Word id='91'>following</Word>
+            <Word id='92'>month</Word>
+            <Word id='93'>,</Word>
+            <Word id='94'>Sun</Word>
+            <Word id='95'>was</Word>
+            <Word id='96'>merged</Word>
+            <Word id='97'>with</Word>
+            <Word id='98'>Oracle</Word>
+            <Word id='99'>USA</Word>
+            <Word id='100'>,</Word>
+            <Word id='101'>Inc</Word>
+            <Word id='102'>.</Word>
+            <Word id='103'>to</Word>
+            <Word id='104'>become</Word>
+            <Word id='105'>Oracle</Word>
+            <Word id='106'>America</Word>
+            <Word id='107'>,</Word>
+            <Word id='108'>Inc</Word>
+            <Word id='109'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+  </Paragrahs>
+</input><input type='text'>
+  <Paragrahs>
+    <Paragraph id='1'>Apollo 11 was the spaceflight that landed the first humans on the Moon, Americans Neil Armstrong and Buzz Aldrin, on July 20, 1969. Armstrong became the first to step onto the lunar surface six hours later. Armstrong spent about two and a half hours outside the spacecraft, Aldrin slightly less, and together they collected 47.5 pounds (21.5 kg) of lunar material for return to Earth. The third member of the mission, Michael Collins, piloted the command spacecraft alone in lunar orbit until Armstrong and Aldrin returned to it just under a day later for the trip back to Earth.
+      <Sentences>
+        <Sentence id='1'>Apollo 11 was the spaceflight that landed the first humans on the Moon, Americans Neil Armstrong and Buzz Aldrin, on July 20, 1969.
+          <NamedEntities>
+            <NamedEntity id='1'>Apollo 11</NamedEntity>
+            <NamedEntity id='2'>Neil Armstrong</NamedEntity>
+            <NamedEntity id='3'>Buzz Aldrin</NamedEntity>
+            <NamedEntity id='4'>Moon</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='1'>Apollo</Word>
+            <Word id='2'>11</Word>
+            <Word id='3'>was</Word>
+            <Word id='4'>the</Word>
+            <Word id='5'>spaceflight</Word>
+            <Word id='6'>that</Word>
+            <Word id='7'>landed</Word>
+            <Word id='8'>the</Word>
+            <Word id='9'>first</Word>
+            <Word id='10'>humans</Word>
+            <Word id='11'>on</Word>
+            <Word id='12'>the</Word>
+            <Word id='13'>Moon</Word>
+            <Word id='14'>,</Word>
+            <Word id='15'>Americans</Word>
+            <Word id='16'>Neil</Word>
+            <Word id='17'>Armstrong</Word>
+            <Word id='18'>and</Word>
+            <Word id='19'>Buzz</Word>
+            <Word id='20'>Aldrin</Word>
+            <Word id='21'>,</Word>
+            <Word id='22'>on</Word>
+            <Word id='23'>July</Word>
+            <Word id='24'>20</Word>
+            <Word id='25'>,</Word>
+            <Word id='26'>1969</Word>
+            <Word id='27'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='2'>Armstrong became the first to step onto the lunar surface six hours later.
+          <NamedEntities />
+          <Words>
+            <Word id='28'>Armstrong</Word>
+            <Word id='29'>became</Word>
+            <Word id='30'>the</Word>
+            <Word id='31'>first</Word>
+            <Word id='32'>to</Word>
+            <Word id='33'>step</Word>
+            <Word id='34'>onto</Word>
+            <Word id='35'>the</Word>
+            <Word id='36'>lunar</Word>
+            <Word id='37'>surface</Word>
+            <Word id='38'>six</Word>
+            <Word id='39'>hours</Word>
+            <Word id='40'>later</Word>
+            <Word id='41'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='3'>Armstrong spent about two and a half hours outside the spacecraft, Aldrin slightly less, and together they collected 47.
+          <NamedEntities />
+          <Words>
+            <Word id='42'>Armstrong</Word>
+            <Word id='43'>spent</Word>
+            <Word id='44'>about</Word>
+            <Word id='45'>two</Word>
+            <Word id='46'>and</Word>
+            <Word id='47'>a</Word>
+            <Word id='48'>half</Word>
+            <Word id='49'>hours</Word>
+            <Word id='50'>outside</Word>
+            <Word id='51'>the</Word>
+            <Word id='52'>spacecraft</Word>
+            <Word id='53'>,</Word>
+            <Word id='54'>Aldrin</Word>
+            <Word id='55'>slightly</Word>
+            <Word id='56'>less</Word>
+            <Word id='57'>,</Word>
+            <Word id='58'>and</Word>
+            <Word id='59'>together</Word>
+            <Word id='60'>they</Word>
+            <Word id='61'>collected</Word>
+            <Word id='62'>47</Word>
+            <Word id='63'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='4'>5 pounds (21.
+          <NamedEntities />
+          <Words>
+            <Word id='64'>5</Word>
+            <Word id='65'>pounds</Word>
+            <Word id='66'>(</Word>
+            <Word id='67'>21</Word>
+            <Word id='68'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='5'>5 kg) of lunar material for return to Earth.
+          <NamedEntities />
+          <Words>
+            <Word id='69'>5</Word>
+            <Word id='70'>kg</Word>
+            <Word id='71'>)</Word>
+            <Word id='72'>of</Word>
+            <Word id='73'>lunar</Word>
+            <Word id='74'>material</Word>
+            <Word id='75'>for</Word>
+            <Word id='76'>return</Word>
+            <Word id='77'>to</Word>
+            <Word id='78'>Earth</Word>
+            <Word id='79'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='6'>The third member of the mission, Michael Collins, piloted the command spacecraft alone in lunar orbit until Armstrong and Aldrin returned to it just under a day later for the trip back to Earth.
+          <NamedEntities>
+            <NamedEntity id='5'>Earth</NamedEntity>
+            <NamedEntity id='6'>Michael Collins</NamedEntity>
+            <NamedEntity id='7'>Earth</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='80'>The</Word>
+            <Word id='81'>third</Word>
+            <Word id='82'>member</Word>
+            <Word id='83'>of</Word>
+            <Word id='84'>the</Word>
+            <Word id='85'>mission</Word>
+            <Word id='86'>,</Word>
+            <Word id='87'>Michael</Word>
+            <Word id='88'>Collins</Word>
+            <Word id='89'>,</Word>
+            <Word id='90'>piloted</Word>
+            <Word id='91'>the</Word>
+            <Word id='92'>command</Word>
+            <Word id='93'>spacecraft</Word>
+            <Word id='94'>alone</Word>
+            <Word id='95'>in</Word>
+            <Word id='96'>lunar</Word>
+            <Word id='97'>orbit</Word>
+            <Word id='98'>until</Word>
+            <Word id='99'>Armstrong</Word>
+            <Word id='100'>and</Word>
+            <Word id='101'>Aldrin</Word>
+            <Word id='102'>returned</Word>
+            <Word id='103'>to</Word>
+            <Word id='104'>it</Word>
+            <Word id='105'>just</Word>
+            <Word id='106'>under</Word>
+            <Word id='107'>a</Word>
+            <Word id='108'>day</Word>
+            <Word id='109'>later</Word>
+            <Word id='110'>for</Word>
+            <Word id='111'>the</Word>
+            <Word id='112'>trip</Word>
+            <Word id='113'>back</Word>
+            <Word id='114'>to</Word>
+            <Word id='115'>Earth</Word>
+            <Word id='116'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+  </Paragrahs>
+</input><input type='text'>
+  <Paragrahs>
+    <Paragraph id='1'>The Apollo spacecraft had three parts: a Command Module with a cabin for the three astronauts, and the only part that landed back on Earth; a Service Module, which supported the Command Module with propulsion, electrical power, oxygen, and water; and a Lunar Module for landing on the Moon. After being sent toward the Moon by the Saturn V's upper stage, the astronauts separated the spacecraft from it and traveled for three days until they entered into lunar orbit. Armstrong and Aldrin then moved into the Lunar Module and landed in the Sea of Tranquility. They stayed a total of about 21.5 hours on the lunar surface. After lifting off in the upper part of the Lunar Module and rejoining Collins in the Command Module, they returned to Earth and landed in the Pacific Ocean on July 24.
+      <Sentences>
+        <Sentence id='1'>The Apollo spacecraft had three parts: a Command Module with a cabin for the three astronauts, and the only part that landed back on Earth; a Service Module, which supported the Command Module with propulsion, electrical power, oxygen, and water; and a Lunar Module for landing on the Moon.
+          <NamedEntities />
+          <Words>
+            <Word id='1'>The</Word>
+            <Word id='2'>Apollo</Word>
+            <Word id='3'>spacecraft</Word>
+            <Word id='4'>had</Word>
+            <Word id='5'>three</Word>
+            <Word id='6'>parts</Word>
+            <Word id='7'>:</Word>
+            <Word id='8'>a</Word>
+            <Word id='9'>Command</Word>
+            <Word id='10'>Module</Word>
+            <Word id='11'>with</Word>
+            <Word id='12'>a</Word>
+            <Word id='13'>cabin</Word>
+            <Word id='14'>for</Word>
+            <Word id='15'>the</Word>
+            <Word id='16'>three</Word>
+            <Word id='17'>astronauts</Word>
+            <Word id='18'>,</Word>
+            <Word id='19'>and</Word>
+            <Word id='20'>the</Word>
+            <Word id='21'>only</Word>
+            <Word id='22'>part</Word>
+            <Word id='23'>that</Word>
+            <Word id='24'>landed</Word>
+            <Word id='25'>back</Word>
+            <Word id='26'>on</Word>
+            <Word id='27'>Earth</Word>
+            <Word id='28'>;</Word>
+            <Word id='29'>a</Word>
+            <Word id='30'>Service</Word>
+            <Word id='31'>Module</Word>
+            <Word id='32'>,</Word>
+            <Word id='33'>which</Word>
+            <Word id='34'>supported</Word>
+            <Word id='35'>the</Word>
+            <Word id='36'>Command</Word>
+            <Word id='37'>Module</Word>
+            <Word id='38'>with</Word>
+            <Word id='39'>propulsion</Word>
+            <Word id='40'>,</Word>
+            <Word id='41'>electrical</Word>
+            <Word id='42'>power</Word>
+            <Word id='43'>,</Word>
+            <Word id='44'>oxygen</Word>
+            <Word id='45'>,</Word>
+            <Word id='46'>and</Word>
+            <Word id='47'>water</Word>
+            <Word id='48'>;</Word>
+            <Word id='49'>and</Word>
+            <Word id='50'>a</Word>
+            <Word id='51'>Lunar</Word>
+            <Word id='52'>Module</Word>
+            <Word id='53'>for</Word>
+            <Word id='54'>landing</Word>
+            <Word id='55'>on</Word>
+            <Word id='56'>the</Word>
+            <Word id='57'>Moon</Word>
+            <Word id='58'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='2'>After being sent toward the Moon by the Saturn V's upper stage, the astronauts separated the spacecraft from it and traveled for three days until they entered into lunar orbit.
+          <NamedEntities>
+            <NamedEntity id='1'>Moon</NamedEntity>
+            <NamedEntity id='3'>Moon</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='59'>After</Word>
+            <Word id='60'>being</Word>
+            <Word id='61'>sent</Word>
+            <Word id='62'>toward</Word>
+            <Word id='63'>the</Word>
+            <Word id='64'>Moon</Word>
+            <Word id='65'>by</Word>
+            <Word id='66'>the</Word>
+            <Word id='67'>Saturn</Word>
+            <Word id='68'>V</Word>
+            <Word id='69'>'</Word>
+            <Word id='70'>s</Word>
+            <Word id='71'>upper</Word>
+            <Word id='72'>stage</Word>
+            <Word id='73'>,</Word>
+            <Word id='74'>the</Word>
+            <Word id='75'>astronauts</Word>
+            <Word id='76'>separated</Word>
+            <Word id='77'>the</Word>
+            <Word id='78'>spacecraft</Word>
+            <Word id='79'>from</Word>
+            <Word id='80'>it</Word>
+            <Word id='81'>and</Word>
+            <Word id='82'>traveled</Word>
+            <Word id='83'>for</Word>
+            <Word id='84'>three</Word>
+            <Word id='85'>days</Word>
+            <Word id='86'>until</Word>
+            <Word id='87'>they</Word>
+            <Word id='88'>entered</Word>
+            <Word id='89'>into</Word>
+            <Word id='90'>lunar</Word>
+            <Word id='91'>orbit</Word>
+            <Word id='92'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='3'>Armstrong and Aldrin then moved into the Lunar Module and landed in the Sea of Tranquility.
+          <NamedEntities>
+            <NamedEntity id='4'>Sea of Tranquility</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='93'>Armstrong</Word>
+            <Word id='94'>and</Word>
+            <Word id='95'>Aldrin</Word>
+            <Word id='96'>then</Word>
+            <Word id='97'>moved</Word>
+            <Word id='98'>into</Word>
+            <Word id='99'>the</Word>
+            <Word id='100'>Lunar</Word>
+            <Word id='101'>Module</Word>
+            <Word id='102'>and</Word>
+            <Word id='103'>landed</Word>
+            <Word id='104'>in</Word>
+            <Word id='105'>the</Word>
+            <Word id='106'>Sea</Word>
+            <Word id='107'>of</Word>
+            <Word id='108'>Tranquility</Word>
+            <Word id='109'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='4'>They stayed a total of about 21.
+          <NamedEntities />
+          <Words>
+            <Word id='110'>They</Word>
+            <Word id='111'>stayed</Word>
+            <Word id='112'>a</Word>
+            <Word id='113'>total</Word>
+            <Word id='114'>of</Word>
+            <Word id='115'>about</Word>
+            <Word id='116'>21</Word>
+            <Word id='117'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='5'>5 hours on the lunar surface.
+          <NamedEntities />
+          <Words>
+            <Word id='118'>5</Word>
+            <Word id='119'>hours</Word>
+            <Word id='120'>on</Word>
+            <Word id='121'>the</Word>
+            <Word id='122'>lunar</Word>
+            <Word id='123'>surface</Word>
+            <Word id='124'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='6'>After lifting off in the upper part of the Lunar Module and rejoining Collins in the Command Module, they returned to Earth and landed in the Pacific Ocean on July 24.
+          <NamedEntities>
+            <NamedEntity id='2'>Earth</NamedEntity>
+            <NamedEntity id='5'>Earth</NamedEntity>
+            <NamedEntity id='6'>Pacific Ocean</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='125'>After</Word>
+            <Word id='126'>lifting</Word>
+            <Word id='127'>off</Word>
+            <Word id='128'>in</Word>
+            <Word id='129'>the</Word>
+            <Word id='130'>upper</Word>
+            <Word id='131'>part</Word>
+            <Word id='132'>of</Word>
+            <Word id='133'>the</Word>
+            <Word id='134'>Lunar</Word>
+            <Word id='135'>Module</Word>
+            <Word id='136'>and</Word>
+            <Word id='137'>rejoining</Word>
+            <Word id='138'>Collins</Word>
+            <Word id='139'>in</Word>
+            <Word id='140'>the</Word>
+            <Word id='141'>Command</Word>
+            <Word id='142'>Module</Word>
+            <Word id='143'>,</Word>
+            <Word id='144'>they</Word>
+            <Word id='145'>returned</Word>
+            <Word id='146'>to</Word>
+            <Word id='147'>Earth</Word>
+            <Word id='148'>and</Word>
+            <Word id='149'>landed</Word>
+            <Word id='150'>in</Word>
+            <Word id='151'>the</Word>
+            <Word id='152'>Pacific</Word>
+            <Word id='153'>Ocean</Word>
+            <Word id='154'>on</Word>
+            <Word id='155'>July</Word>
+            <Word id='156'>24</Word>
+            <Word id='157'>.</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+  </Paragrahs>
+</input><input type='text'>
+  <Paragrahs>
+    <Paragraph id='1'>James Clerk Maxwell 
+      <Sentences>
+        <Sentence id='1'>James Clerk Maxwell
+          <NamedEntities>
+            <NamedEntity id='1'>James Clerk Maxwell</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='1'>James</Word>
+            <Word id='2'>Clerk</Word>
+            <Word id='3'>Maxwell</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+    <Paragraph id='2'>was a Scottish mathematical physicist. His most notable achievement was to formulate the classical theory of electromagnetic radiation, bringing together for the first time electricity, magnetism, and light as manifestations of the same phenomenon. Maxwell's equations for electromagnetism have been called the "second great unification in physics" after the first one realised by        
+      <Sentences>
+        <Sentence id='2'>was a Scottish mathematical physicist.
+          <NamedEntities />
+          <Words>
+            <Word id='4'>was</Word>
+            <Word id='5'>a</Word>
+            <Word id='6'>Scottish</Word>
+            <Word id='7'>mathematical</Word>
+            <Word id='8'>physicist</Word>
+            <Word id='9'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='3'>His most notable achievement was to formulate the classical theory of electromagnetic radiation, bringing together for the first time electricity, magnetism, and light as manifestations of the same phenomenon.
+          <NamedEntities />
+          <Words>
+            <Word id='10'>His</Word>
+            <Word id='11'>most</Word>
+            <Word id='12'>notable</Word>
+            <Word id='13'>achievement</Word>
+            <Word id='14'>was</Word>
+            <Word id='15'>to</Word>
+            <Word id='16'>formulate</Word>
+            <Word id='17'>the</Word>
+            <Word id='18'>classical</Word>
+            <Word id='19'>theory</Word>
+            <Word id='20'>of</Word>
+            <Word id='21'>electromagnetic</Word>
+            <Word id='22'>radiation</Word>
+            <Word id='23'>,</Word>
+            <Word id='24'>bringing</Word>
+            <Word id='25'>together</Word>
+            <Word id='26'>for</Word>
+            <Word id='27'>the</Word>
+            <Word id='28'>first</Word>
+            <Word id='29'>time</Word>
+            <Word id='30'>electricity</Word>
+            <Word id='31'>,</Word>
+            <Word id='32'>magnetism</Word>
+            <Word id='33'>,</Word>
+            <Word id='34'>and</Word>
+            <Word id='35'>light</Word>
+            <Word id='36'>as</Word>
+            <Word id='37'>manifestations</Word>
+            <Word id='38'>of</Word>
+            <Word id='39'>the</Word>
+            <Word id='40'>same</Word>
+            <Word id='41'>phenomenon</Word>
+            <Word id='42'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='4'>Maxwell's equations for electromagnetism have been called the "second great unification in physics" after the first one realised by
+          <NamedEntities />
+          <Words>
+            <Word id='43'>Maxwell</Word>
+            <Word id='44'>'</Word>
+            <Word id='45'>s</Word>
+            <Word id='46'>equations</Word>
+            <Word id='47'>for</Word>
+            <Word id='48'>electromagnetism</Word>
+            <Word id='49'>have</Word>
+            <Word id='50'>been</Word>
+            <Word id='51'>called</Word>
+            <Word id='52'>the</Word>
+            <Word id='53'>"</Word>
+            <Word id='54'>second</Word>
+            <Word id='55'>great</Word>
+            <Word id='56'>unification</Word>
+            <Word id='57'>in</Word>
+            <Word id='58'>physics</Word>
+            <Word id='59'>"</Word>
+            <Word id='60'>after</Word>
+            <Word id='61'>the</Word>
+            <Word id='62'>first</Word>
+            <Word id='63'>one</Word>
+            <Word id='64'>realised</Word>
+            <Word id='65'>by</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+    <Paragraph id='3'>Isaac Newton... Maxwell demonstrated that electric and magnetic fields travel through space as waves moving at the speed of light. Maxwell proposed that light is an undulation in the same medium that is the cause of electric and magnetic phenomena. 
+      <Sentences>
+        <Sentence id='5'>Isaac Newton...
+          <NamedEntities />
+          <Words>
+            <Word id='66'>Isaac</Word>
+            <Word id='67'>Newton</Word>
+            <Word id='68'>.</Word>
+            <Word id='69'>.</Word>
+            <Word id='70'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='6'>Maxwell demonstrated that electric and magnetic fields travel through space as waves moving at the speed of light.
+          <NamedEntities />
+          <Words>
+            <Word id='71'>Maxwell</Word>
+            <Word id='72'>demonstrated</Word>
+            <Word id='73'>that</Word>
+            <Word id='74'>electric</Word>
+            <Word id='75'>and</Word>
+            <Word id='76'>magnetic</Word>
+            <Word id='77'>fields</Word>
+            <Word id='78'>travel</Word>
+            <Word id='79'>through</Word>
+            <Word id='80'>space</Word>
+            <Word id='81'>as</Word>
+            <Word id='82'>waves</Word>
+            <Word id='83'>moving</Word>
+            <Word id='84'>at</Word>
+            <Word id='85'>the</Word>
+            <Word id='86'>speed</Word>
+            <Word id='87'>of</Word>
+            <Word id='88'>light</Word>
+            <Word id='89'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='7'>Maxwell proposed that light is an undulation in the same medium that is the cause of electric and magnetic phenomena.
+          <NamedEntities />
+          <Words>
+            <Word id='90'>Maxwell</Word>
+            <Word id='91'>proposed</Word>
+            <Word id='92'>that</Word>
+            <Word id='93'>light</Word>
+            <Word id='94'>is</Word>
+            <Word id='95'>an</Word>
+            <Word id='96'>undulation</Word>
+            <Word id='97'>in</Word>
+            <Word id='98'>the</Word>
+            <Word id='99'>same</Word>
+            <Word id='100'>medium</Word>
+            <Word id='101'>that</Word>
+            <Word id='102'>is</Word>
+            <Word id='103'>the</Word>
+            <Word id='104'>cause</Word>
+            <Word id='105'>of</Word>
+            <Word id='106'>electric</Word>
+            <Word id='107'>and</Word>
+            <Word id='108'>magnetic</Word>
+            <Word id='109'>phenomena</Word>
+            <Word id='110'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='8'>
+          <NamedEntities />
+          <Words />
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+    <Paragraph id='4'>The unification     of light and electrical phenomena led to the prediction of the existence of radio waves. His discoveries helped usher in the era of modern physics, laying the foundation for such fields as special relativity and quantum mechanics. His contributions to the science are considered by many to be of the same magnitude as those of Isaac Newton and Albert Einstein. QED
+      <Sentences>
+        <Sentence id='9'>The unification     of light and electrical phenomena led to the prediction of the existence of radio waves.
+          <NamedEntities />
+          <Words>
+            <Word id='111'>The</Word>
+            <Word id='112'>unification</Word>
+            <Word id='113'>of</Word>
+            <Word id='114'>light</Word>
+            <Word id='115'>and</Word>
+            <Word id='116'>electrical</Word>
+            <Word id='117'>phenomena</Word>
+            <Word id='118'>led</Word>
+            <Word id='119'>to</Word>
+            <Word id='120'>the</Word>
+            <Word id='121'>prediction</Word>
+            <Word id='122'>of</Word>
+            <Word id='123'>the</Word>
+            <Word id='124'>existence</Word>
+            <Word id='125'>of</Word>
+            <Word id='126'>radio</Word>
+            <Word id='127'>waves</Word>
+            <Word id='128'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='10'>His discoveries helped usher in the era of modern physics, laying the foundation for such fields as special relativity and quantum mechanics.
+          <NamedEntities />
+          <Words>
+            <Word id='129'>His</Word>
+            <Word id='130'>discoveries</Word>
+            <Word id='131'>helped</Word>
+            <Word id='132'>usher</Word>
+            <Word id='133'>in</Word>
+            <Word id='134'>the</Word>
+            <Word id='135'>era</Word>
+            <Word id='136'>of</Word>
+            <Word id='137'>modern</Word>
+            <Word id='138'>physics</Word>
+            <Word id='139'>,</Word>
+            <Word id='140'>laying</Word>
+            <Word id='141'>the</Word>
+            <Word id='142'>foundation</Word>
+            <Word id='143'>for</Word>
+            <Word id='144'>such</Word>
+            <Word id='145'>fields</Word>
+            <Word id='146'>as</Word>
+            <Word id='147'>special</Word>
+            <Word id='148'>relativity</Word>
+            <Word id='149'>and</Word>
+            <Word id='150'>quantum</Word>
+            <Word id='151'>mechanics</Word>
+            <Word id='152'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='11'>His contributions to the science are considered by many to be of the same magnitude as those of Isaac Newton and Albert Einstein.
+          <NamedEntities>
+            <NamedEntity id='2'>Newton</NamedEntity>
+            <NamedEntity id='3'>Isaac Newton</NamedEntity>
+            <NamedEntity id='4'>Newton</NamedEntity>
+            <NamedEntity id='5'>Isaac Newton</NamedEntity>
+            <NamedEntity id='6'>Albert Einstein</NamedEntity>
+          </NamedEntities>
+          <Words>
+            <Word id='153'>His</Word>
+            <Word id='154'>contributions</Word>
+            <Word id='155'>to</Word>
+            <Word id='156'>the</Word>
+            <Word id='157'>science</Word>
+            <Word id='158'>are</Word>
+            <Word id='159'>considered</Word>
+            <Word id='160'>by</Word>
+            <Word id='161'>many</Word>
+            <Word id='162'>to</Word>
+            <Word id='163'>be</Word>
+            <Word id='164'>of</Word>
+            <Word id='165'>the</Word>
+            <Word id='166'>same</Word>
+            <Word id='167'>magnitude</Word>
+            <Word id='168'>as</Word>
+            <Word id='169'>those</Word>
+            <Word id='170'>of</Word>
+            <Word id='171'>Isaac</Word>
+            <Word id='172'>Newton</Word>
+            <Word id='173'>and</Word>
+            <Word id='174'>Albert</Word>
+            <Word id='175'>Einstein</Word>
+            <Word id='176'>.</Word>
+          </Words>
+        </Sentence>
+        <Sentence id='12'>QED
+          <NamedEntities />
+          <Words>
+            <Word id='177'>QED</Word>
+          </Words>
+        </Sentence>
+      </Sentences>
+    </Paragraph>
+  </Paragrahs>
+</input>
